@@ -1,0 +1,9 @@
+black
+ruff
+requests
+scikit-learn
+matplotlib
+ipykernel
+numpy
+kagglehub
+pandas
