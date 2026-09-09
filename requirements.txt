@@ -1,6 +1,5 @@
 black
 ruff
-requests
 scikit-learn
 matplotlib
 ipykernel
