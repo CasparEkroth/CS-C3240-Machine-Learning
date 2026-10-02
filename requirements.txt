@@ -6,7 +6,7 @@ scikit-learn
 scikit-image
 Pillow
 kagglehub
+imbalanced-learn
+torch
+torchvision
 ipykernel
-#tensorflow
-scipy
-
